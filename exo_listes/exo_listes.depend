@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557143534 source:c:\users\yoann\desktop\ludus\code blocks dossiers\exo_listes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
